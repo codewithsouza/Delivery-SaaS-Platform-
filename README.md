@@ -72,7 +72,32 @@ It offers functionality for both administrators and end-users, with real-time or
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots or GIFs of the platform below, with fake/sample data if needed.)*
+### 🔐 Login
+![Login](./seets/Login.png)
+
+### 🧭 Main Dashboard
+![Painel principal](./seets/Painel%20principal.png)
+
+### 🍽️ Orders Panel
+![Pedidos](./seets/Pedidos.png)
+
+### 👨‍🍳 Kitchen View
+![Cozinha](./seets/Cozinha.png)
+
+### 📦 Inventory Management
+![Estoque](./seets/Estoque.png)
+
+### 🛒 Product Management
+![Produtos](./seets/Produtos.png)
+
+### 🧩 Configuration Panel
+![Configuração](./seets/Configura%C3%A7%C3%A3o.png)
+
+### 📊 Reports (1)
+![Relatórios](./seets/Relatorios.png)
+
+### 📊 Reports (2)
+![Relatórios p2](./seets/Relatorios%20p2.png)
 
 ---
 
@@ -92,3 +117,7 @@ Feel free to reach out if you'd like to discuss the architecture or specific fea
 ---
 
 🚀 *Let’s build something great together.*
+
+
+<!-- temporary change to force git commit -->
+
