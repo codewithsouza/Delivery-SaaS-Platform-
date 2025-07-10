@@ -73,31 +73,32 @@ It offers functionality for both administrators and end-users, with real-time or
 ## 🖼️ Screenshots
 
 ### 🔐 Login  
-![Login](./Login.png)
+![Login](./seets/Login.png)
 
 ### 🧭 Main Dashboard  
-![Painel principal](./Painel%20principal.png)
+![Painel principal](./seets/Painel%20principal.png)
 
 ### 🍽️ Orders Panel  
-![Pedidos](./Pedidos.png)
+![Pedidos](./seets/Pedidos.png)
 
 ### 👨‍🍳 Kitchen View  
-![Cozinha](./Cozinha.png)
+![Cozinha](./seets/Cozinha.png)
 
 ### 📦 Inventory Management  
-![Estoque](./Estoque.png)
+![Estoque](./seets/Estoque.png)
 
 ### 🛒 Product Management  
-![Produtos](./Produtos.png)
+![Produtos](./seets/Produtos.png)
 
 ### 🧩 Configuration Panel  
-![Configuração](./Configura%C3%A7%C3%A3o.png)
+![Configuração](./seets/Configura%C3%A7%C3%A3o.png)
 
 ### 📊 Reports (1)  
-![Relatórios](./Relatorios.png)
+![Relatórios](./seets/Relatorios.png)
 
 ### 📊 Reports (2)  
-![Relatórios p2](./Relatorios%20p2.png)
+![Relatórios p2](./seets/Relatorios%20p2.png)
+
 
 ---
 
